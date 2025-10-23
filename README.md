@@ -40,35 +40,37 @@ Voici un exemple de l'exécution du programme :
   
 ## Exemple d’exécution de exercice 3 :
 Voici un exemple de l'exécution du programme :
-  ![Exécution du programme](execution.png)
+  ![Exécution du programme](execution_ex3.PNG)
   
 ## Exemple d’exécution de exercice 4 :
 Voici un exemple de l'exécution du programme :
-  ![Exécution du programme](execution.png)
+  ![Exécution du programme](execution_ex4.PNG)
   
 ## Exemple d’exécution de exercice 5 :
 Voici un exemple de l'exécution du programme :
-  ![Exécution du programme](execution.png)
+  ![Exécution du programme](execution_ex5.1.PNG)
+   ![Exécution du programme](execution_ex5.2.PNG)
   
 ## Exemple d’exécution de exercice 6 :
 Voici un exemple de l'exécution du programme :
-  ![Exécution du programme](execution.png)
+  ![Exécution du programme](execution_ex6.PNG)
   
 ## Exemple d’exécution de exercice 7 :
 Voici un exemple de l'exécution du programme :
-  ![Exécution du programme](execution.png)
-  
+ ![Exécution du programme](execution_ex7.1.PNG)
+ ![Exécution du programme](execution_ex7.2.PNG)
+   
 ## Exemple d’exécution de exercice 8 :
-![Exécution du programme](execution.png)
+![Exécution du programme](execution_ex8.PNG)
 Voici un exemple de l'exécution du programme :
 
 ## Exemple d’exécution de exercice 9 :
 Voici un exemple de l'exécution du programme :
-![Exécution du programme](execution.png)
+![Exécution du programme](execution_ex9.PNG)
 
 ## Exemple d’exécution de exercice 10 :
 Voici un exemple de l'exécution du programme :
-![Exécution du programme](execution.png)
-
+![Exécution du programme](execution_ex10.1.PNG)
+![Exécution du programme](execution_ex10.2.PNG)
 
 
