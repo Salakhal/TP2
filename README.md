@@ -36,7 +36,7 @@ Voici un exemple de l'exécution du programme :
   
 ## Exemple d’exécution de exercice 2 :
 Voici un exemple de l'exécution du programme :
-![Exécution du programme](execution.png)
+![Exécution du programme](execution_ex2.PNG)
   
 ## Exemple d’exécution de exercice 3 :
 Voici un exemple de l'exécution du programme :
