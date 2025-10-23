@@ -32,7 +32,7 @@ Chaque exercice est implémenté dans la classe `Ensenble_Exercices.java` et acc
   
 ## Exemple d’exécution de exercice 1 :
 Voici un exemple de l'exécution du programme :
-![Exécution du programme](execution.png)
+![Exécution du programme](execution_ex1.PNG)
   
 ## Exemple d’exécution de exercice 2 :
 Voici un exemple de l'exécution du programme :
