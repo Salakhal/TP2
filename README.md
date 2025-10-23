@@ -24,9 +24,51 @@ Chaque exercice est implémenté dans la classe `Ensenble_Exercices.java` et acc
 
 ---
 ## Utilisation
-Choisir un exercice (1 à 10)
+- Choisir un exercice (1 à 10)
 
-Entrer les données demandées (tableau ou matrice)
+- Entrer les données demandées (tableau ou matrice)
 
-Consulter le résultat affiché dans la console
+- Consulter le résultat affiché dans la console
+  
+## Exemple d’exécution de exercice 1 :
+Voici un exemple de l'exécution du programme :
+![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 2 :
+Voici un exemple de l'exécution du programme :
+![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 3 :
+Voici un exemple de l'exécution du programme :
+  ![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 4 :
+Voici un exemple de l'exécution du programme :
+  ![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 5 :
+Voici un exemple de l'exécution du programme :
+  ![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 6 :
+Voici un exemple de l'exécution du programme :
+  ![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 7 :
+Voici un exemple de l'exécution du programme :
+  ![Exécution du programme](execution.png)
+  
+## Exemple d’exécution de exercice 8 :
+![Exécution du programme](execution.png)
+Voici un exemple de l'exécution du programme :
+
+## Exemple d’exécution de exercice 9 :
+Voici un exemple de l'exécution du programme :
+![Exécution du programme](execution.png)
+
+## Exemple d’exécution de exercice 10 :
+Voici un exemple de l'exécution du programme :
+![Exécution du programme](execution.png)
+
+
 
